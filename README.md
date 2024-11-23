@@ -1,5 +1,15 @@
-# Deskripsikan tentang dirimu
+# First Challenge Git
 
-> Jelaskan mengenai latar belakang kamu
+> Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya
 
-bladasdasdds
+## Latar Belakang
+
+> Motivasi apa yang mendorongmu untuk kuliah di tempatmu saat ini?
+
+## Motivasi
+
+> Beri tahu kami, apa yang ingin kamu dapatkan di kampusmu dan apa yang ingin kamu capai setelah lulus dari sini?
+
+## Ekspektasi
+
+> Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
