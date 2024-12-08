@@ -1,15 +1,16 @@
 # First Challenge Git
 
-> Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya
+> saya mahasiswa sistem informasi di binus, pernah melaksanakan magang saat smk 
+
 
 ## Latar Belakang
 
-> Motivasi apa yang mendorongmu untuk kuliah di tempatmu saat ini?
+> mencari ilmu baru, mendapatkan teman baru dan mencari pengalaman baru
 
 ## Motivasi
 
-> Beri tahu kami, apa yang ingin kamu dapatkan di kampusmu dan apa yang ingin kamu capai setelah lulus dari sini?
+> ingin mendapat pengalaman yang positif dan bisa bekerja setelah lulus
 
 ## Ekspektasi
 
-> Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
+> mendapat relasi baru serta ilmu yang bermanfaat
